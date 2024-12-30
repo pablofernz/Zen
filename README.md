@@ -1,8 +1,8 @@
 
-### General Information
+### General Information 📖
 ZEN is a website designed to manage tasks in an efficient and organized manner. With a clean and easy-to-use interface, it allows users to create, edit, delete, and mark tasks as completed. The experience is enhanced with smooth animations and an intuitive structure, offering a simple and effective way to keep up with all pending tasks.
 
-### Screenshots
+### Screenshots 📷
  
 ![image](https://github.com/user-attachments/assets/f4f797ff-a3fe-458a-b742-aa868a7f9b6e)
 ![image](https://github.com/user-attachments/assets/819a59fd-2edc-45a3-819d-92669e575f68)
@@ -10,13 +10,13 @@ ZEN is a website designed to manage tasks in an efficient and organized manner. 
 ![image](https://github.com/user-attachments/assets/1b020633-5e0b-4ab3-aee7-bac3427fa104)
 
 
-### Links
+### Links 🔗
 
-[Website](https://projectzen.vercel.app)
+[Website](https://projectzen.vercel.app) (Friendly reminder: The backend is hosted in Render and usually slows down the response speed depending on the activity. So if it takes a while to bring the tasks, wait a bit 😀 data is coming)
 
 [API Docs](https://projectzen.vercel.app/docs)
 
-## Technologies
+## Technologies ⚙️
 The tools used in this project are:
 
 Back-end:
@@ -37,7 +37,7 @@ Front-end:
 API documentation:
 * Swagger
 
-## Installation
+## Installation 💻
 ¡You can also install it!!!!! check the code below (telesales voice)
 ```
 $---Back End---
